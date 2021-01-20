@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d926f131cf490c8479c265ee9e336a07, type: 3}
+  m_Name: SEList
+  m_EditorClassIdentifier: Assembly-CSharp::SEInfo
+  cursorSE: {fileID: 8300000, guid: c2d5bb93f4455a34298db06a7068f55c, type: 3}
+  submitSE: {fileID: 8300000, guid: d8f69ecd78e98cd45b1f8c84113f5411, type: 3}
+  infoSE: {fileID: 8300000, guid: 98678f0d72ac9074d9565b7fbdeeff86, type: 3}
+  fadeSE: {fileID: 8300000, guid: af5911579edb41d408cbd53aa3bea453, type: 3}
+  enemyHitSE: {fileID: 8300000, guid: f9860bd72b753d24e8b7b39dcc814f2b, type: 3}
+  BreakSE: {fileID: 8300000, guid: e4516b9e35884df41bfa6fa5a271bcbc, type: 3}
+  EnemyEatSE: {fileID: 8300000, guid: d7f0e81cf1464d340a876ff2f3903325, type: 3}
+  ImpactSE: {fileID: 8300000, guid: 89eb23718f94fe747a0b11d3b96b9dba, type: 3}
+  MeleeAttackSE: {fileID: 8300000, guid: 47c234b5e3f524b4f8ba00b5c7569046, type: 3}
+  PowerdBreakSE: {fileID: 8300000, guid: 1c50a707ffbbbf348825dc9d89ec69e5, type: 3}
+  PowerUpSE: {fileID: 8300000, guid: fca325bc2c171e44ca3059e5a0be3fcd, type: 3}
+  QuickSpawnSE: {fileID: 8300000, guid: 23665a055a92cdc4aa38e88703b4be1e, type: 3}
+  EnemySpawnSE: {fileID: 8300000, guid: a7038afdb58fd4e428349c51e8607137, type: 3}
+  WeaponHitSE: {fileID: 8300000, guid: 35ef0720bdcf0394598a1d11b2cc9f22, type: 3}
+  CrystalSpawnSE: {fileID: 8300000, guid: 8b0c3377c3277254fa40159dd2327219, type: 3}

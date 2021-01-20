@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DestroyLine
+  - Weak
+  - MovePoint
+  - Enemy
+  - Weapon
+  - Collide
+  - Boss
+  - Score
+  - Ground
+  - Shards
+  - JumpPad
+  - PowerUp
+  - Bonus
+  - Melee
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Environment Object
+  - Destroyed Object
+  - Enemy
+  - WayPoint
+  - Minimap
+  - Stone
+  - Shards
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 1806345093
+    locked: 0
